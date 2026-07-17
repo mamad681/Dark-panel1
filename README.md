@@ -12,8 +12,8 @@
 اطلاعات ورود پیش‌فرض سوپر ادمین (قابل تغییر با متغیرهای محیطی `SUPERADMIN_EMAIL` / `SUPERADMIN_PASSWORD`):
 
 ```
-ایمیل:  mohammadadel.zare@gmail.com
-رمز:    Adel5129
+ایمیل:  
+رمز:    
 ```
 
 ## انواع کانفیگ
@@ -45,8 +45,8 @@
 
 | متغیر | توضیح | پیش‌فرض |
 |---|---|---|
-| `SUPERADMIN_EMAIL` | ایمیل ورود سوپر ادمین | `mohammadadel.zare@gmail.com` |
-| `SUPERADMIN_PASSWORD` | رمز عبور سوپر ادمین | `Adel5129` |
+| `SUPERADMIN_EMAIL` | ایمیل ورود سوپر ادمین | `` |
+| `SUPERADMIN_PASSWORD` | رمز عبور سوپر ادمین | `` |
 | `SECRET_KEY` | کلید امضای هش رمزها؛ اگر ندهید خودکار ساخته و روی دیسک ذخیره می‌شود | — |
 | `DATA_DIR` | مسیر ذخیره‌سازی وضعیت (نیازمند Volume دائمی) | `/data` |
 | `RAILWAY_PUBLIC_DOMAIN` | دامنه‌ی عمومی سرویس؛ خودکار توسط Railway تنظیم می‌شود | `localhost` |
